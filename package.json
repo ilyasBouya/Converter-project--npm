@@ -1,0 +1,18 @@
+{
+  "name": "convertor",
+  "version": "1.0.0",
+  "description": "this package is for converting units between each others",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convertor"
+  ],
+  "author": "ilyas bouya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.0"
+  }
+}
